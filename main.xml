@@ -7221,9 +7221,9 @@ height: 100%;
         <b:widget-settings>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
           <b:widget-setting name='text-1'>About</b:widget-setting>
-          <b:widget-setting name='link-1'>https://game-x-soratemplates.blogspot.com/p/about.html</b:widget-setting>
+          <b:widget-setting name='link-1'>#</b:widget-setting>
           <b:widget-setting name='text-0'>Home</b:widget-setting>
-          <b:widget-setting name='link-2'>https://game-x-soratemplates.blogspot.com/p/contact-us.html</b:widget-setting>
+          <b:widget-setting name='link-2'>#</b:widget-setting>
           <b:widget-setting name='link-0'>/</b:widget-setting>
           <b:widget-setting name='text-2'>Contact Us</b:widget-setting>
         </b:widget-settings>
@@ -7242,7 +7242,7 @@ height: 100%;
 </b:includable>
       </b:widget>
     </b:section>
-    <div class='copyright-area'>Created By <a href='http://soratemplates.com/' id='mycontent' rel='dofollow' title='Blogger Template'>SoraTemplates</a> | Distributed By <a href='https://gooyaabitemplates.com/' rel='dofollow' style='color:#ff00ba;' target='_blank' title='Gooyaabi Templates'>Gooyaabi Templates</a>
+    <div class='copyright-area'>Created By <a href='http://soratemplates.com/' id='mycontent' rel='dofollow' title='Blogger Template'>SoraTemplates</a> | Edited By <a href='#' rel='dofollow' style='color:#ff00ba;' target='_blank' title='GTA PRO'>GTA PRO</a>
     </div>
   </div>
 </div>
