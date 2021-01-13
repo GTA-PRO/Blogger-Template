@@ -3110,8 +3110,7 @@ background: rgba(0,0,0,0.6);
 }
  .comments .comments-content .comment-content{
     float:left;
-    font-size:13px;
-    color:#5E5E5E;
+    font-size:15px;
     font-weight:400;
     text-align:left;
     line-height:1.4em;
@@ -5322,17 +5321,15 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
       </b:widget>
       <b:widget id='LinkList71' locked='true' title='Default Variables' type='LinkList' version='2' visible='true'>
         <b:widget-settings>
-          <b:widget-setting name='link-3'>true</b:widget-setting>
+          <b:widget-setting name='link-3'>5</b:widget-setting>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
-          <b:widget-setting name='link-4'>5</b:widget-setting>
-          <b:widget-setting name='text-1'>commentsSystem</b:widget-setting>
-          <b:widget-setting name='link-1'>blogger</b:widget-setting>
-          <b:widget-setting name='text-0'>disqusShortname</b:widget-setting>
+          <b:widget-setting name='text-1'>fixedSidebar</b:widget-setting>
+          <b:widget-setting name='link-1'>true</b:widget-setting>
+          <b:widget-setting name='text-0'>commentsSystem</b:widget-setting>
           <b:widget-setting name='link-2'>true</b:widget-setting>
-          <b:widget-setting name='text-3'>fixedMenu</b:widget-setting>
-          <b:widget-setting name='link-0'>soratemplates</b:widget-setting>
-          <b:widget-setting name='text-2'>fixedSidebar</b:widget-setting>
-          <b:widget-setting name='text-4'>postPerPage</b:widget-setting>
+          <b:widget-setting name='text-3'>postPerPage</b:widget-setting>
+          <b:widget-setting name='link-0'>blogger</b:widget-setting>
+          <b:widget-setting name='text-2'>fixedMenu</b:widget-setting>
         </b:widget-settings>
         <b:includable id='main'>
           <b:include name='content'/>
@@ -5398,9 +5395,11 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
              <b:widget-settings>
                <b:widget-setting name='sorting'>NONE</b:widget-setting>
                <b:widget-setting name='text-1'>youtube</b:widget-setting>
-               <b:widget-setting name='link-1'>#</b:widget-setting>
+               <b:widget-setting name='link-1'>https://www.youtube.com/channel/UC3fby09ksG2ZrZ8CB2wTXdw</b:widget-setting>
                <b:widget-setting name='text-0'>facebook</b:widget-setting>
+               <b:widget-setting name='link-2'>https://vk.com/GTAPRO7777</b:widget-setting>
                <b:widget-setting name='link-0'>https://www.facebook.com/GTAPRO7777</b:widget-setting>
+               <b:widget-setting name='text-2'>vk</b:widget-setting>
              </b:widget-settings>
              <b:includable id='main'>
               <b:include name='content'/>
@@ -5546,8 +5545,8 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='main-menu' id='main-menu' maxwidgets='1' name='Main Menu / Dropdown / Multi Dropdown / Megamenu' showaddelement='yes'>
            <b:widget id='LinkList74' locked='true' title='Link List' type='LinkList' version='2' visible='true'>
              <b:widget-settings>
-               <b:widget-setting name='text-9'>Scripting Tutorials/Tips</b:widget-setting>
-               <b:widget-setting name='link-9'>War/mega-menu</b:widget-setting>
+               <b:widget-setting name='text-9'>Tutorials</b:widget-setting>
+               <b:widget-setting name='link-9'>Tutorial/mega-menu</b:widget-setting>
                <b:widget-setting name='text-8'>_Maps</b:widget-setting>
                <b:widget-setting name='link-7'>#</b:widget-setting>
                <b:widget-setting name='link-8'>#</b:widget-setting>
@@ -6672,14 +6671,14 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
           </b:widget>
         </b:section>
         <b:section class='sidebar' id='social-widget' maxwidgets='1' name='Social Widget' showaddelement='yes'>
-          <b:widget id='LinkList75' locked='true' title='Social Plugin' type='LinkList' version='2' visible='true'>
+          <b:widget id='LinkList75' locked='true' title='Social Media' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='link-3'>#</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='text-1'>youtube</b:widget-setting>
-              <b:widget-setting name='link-1'>#</b:widget-setting>
+              <b:widget-setting name='link-1'>https://www.youtube.com/channel/UC3fby09ksG2ZrZ8CB2wTXdw</b:widget-setting>
               <b:widget-setting name='text-0'>facebook</b:widget-setting>
-              <b:widget-setting name='link-2'>#</b:widget-setting>
+              <b:widget-setting name='link-2'>https://vk.com/GTAPRO7777</b:widget-setting>
               <b:widget-setting name='text-3'>rss</b:widget-setting>
               <b:widget-setting name='link-0'>https://www.facebook.com/GTAPRO7777</b:widget-setting>
               <b:widget-setting name='text-2'>vk</b:widget-setting>
@@ -6700,7 +6699,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
           </b:widget>
         </b:section>
         <b:section class='sidebar common-widget' id='sidebar2' name='Sidebar Right (B)' showaddelement='yes'>
-          <b:widget id='HTML16' locked='false' title='Ad Space' type='HTML' visible='true'>
+          <b:widget id='HTML16' locked='false' title='Ads' type='HTML' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='content'>&lt;a class=&quot;sora-ads-side&quot; href=&quot;javascript:;&quot;&gt;Responsive Advertisement&lt;/a&gt;
 &lt;style&gt;
