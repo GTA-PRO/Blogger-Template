@@ -4,7 +4,6 @@
   <head>
     <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
     <title><data:view.title.escaped/></title>
-    <link rel="shortcut icon" href="https://i.imgur.com/Lyf2Teb.png">
     <link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
     <link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
     <link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
@@ -5373,9 +5372,9 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
             <b:widget-settings>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='text-1'>About</b:widget-setting>
-              <b:widget-setting name='link-1'>https://game-x-soratemplates.blogspot.com/p/about.html</b:widget-setting>
+              <b:widget-setting name='link-1'>#</b:widget-setting>
               <b:widget-setting name='text-0'>Home</b:widget-setting>
-              <b:widget-setting name='link-2'>https://game-x-soratemplates.blogspot.com/p/contact-us.html</b:widget-setting>
+              <b:widget-setting name='link-2'>#</b:widget-setting>
               <b:widget-setting name='link-0'>/</b:widget-setting>
               <b:widget-setting name='text-2'>Contact</b:widget-setting>
             </b:widget-settings>
@@ -5397,15 +5396,11 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='top-bar-social social social-color' id='top-bar-social' maxwidgets='1' name='Social Top' showaddelement='yes'>
            <b:widget id='LinkList73' locked='true' title='Top Social Widget' type='LinkList' version='2' visible='true'>
              <b:widget-settings>
-               <b:widget-setting name='link-3'>#</b:widget-setting>
                <b:widget-setting name='sorting'>NONE</b:widget-setting>
-               <b:widget-setting name='text-1'>twitter</b:widget-setting>
+               <b:widget-setting name='text-1'>youtube</b:widget-setting>
                <b:widget-setting name='link-1'>#</b:widget-setting>
                <b:widget-setting name='text-0'>facebook</b:widget-setting>
-               <b:widget-setting name='link-2'>#</b:widget-setting>
-               <b:widget-setting name='text-3'>pinterest</b:widget-setting>
-               <b:widget-setting name='link-0'>https://fb.com/soratemplates</b:widget-setting>
-               <b:widget-setting name='text-2'>instagram</b:widget-setting>
+               <b:widget-setting name='link-0'>https://www.facebook.com/GTAPRO7777</b:widget-setting>
              </b:widget-settings>
              <b:includable id='main'>
               <b:include name='content'/>
@@ -5431,7 +5426,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
     <div class='header-header'>    
       <div class='container row'>
           <b:section class='header-logo' id='header-logo' maxwidgets='1' name='Header Logo' showaddelement='yes'>
-            <b:widget id='Header1' locked='true' title='Game-X (Header)' type='Header' version='2' visible='true'>
+            <b:widget id='Header1' locked='true' title='GTA PRO (Header)' type='Header' version='2' visible='true'>
               <b:widget-settings>
                 <b:widget-setting name='displayUrl'>http://1.bp.blogspot.com/-D3zLE_mHH9A/X3cRhkvRbbI/AAAAAAAAJbk/zKvoq0B3gzszEHPZlD2z_EETYuS2DV7XwCK4BGAYYCw/s1600/Game-x-logo.png</b:widget-setting>
                 <b:widget-setting name='displayHeight'>56</b:widget-setting>
@@ -5551,35 +5546,27 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='main-menu' id='main-menu' maxwidgets='1' name='Main Menu / Dropdown / Multi Dropdown / Megamenu' showaddelement='yes'>
            <b:widget id='LinkList74' locked='true' title='Link List' type='LinkList' version='2' visible='true'>
              <b:widget-settings>
-               <b:widget-setting name='text-10'>Documentation</b:widget-setting>
-               <b:widget-setting name='sorting'>NONE</b:widget-setting>
-               <b:widget-setting name='link-1'>#</b:widget-setting>
-               <b:widget-setting name='link-13'>https://www.soratemplates.com/2020/10/game-x-blogger-templates.html</b:widget-setting>
-               <b:widget-setting name='link-2'>#</b:widget-setting>
-               <b:widget-setting name='link-12'>https://youtu.be/PVdwikpIXiw</b:widget-setting>
-               <b:widget-setting name='link-0'>/</b:widget-setting>
-               <b:widget-setting name='link-11'>https://www.sorabloggingtips.com/2020/10/how-to-setup-game-x-blogger-template.html</b:widget-setting>
-               <b:widget-setting name='link-10'>#</b:widget-setting>
-               <b:widget-setting name='text-9'>Mega Menu</b:widget-setting>
+               <b:widget-setting name='text-9'>Scripting Tutorials/Tips</b:widget-setting>
                <b:widget-setting name='link-9'>War/mega-menu</b:widget-setting>
-               <b:widget-setting name='text-8'>_Error Page</b:widget-setting>
-               <b:widget-setting name='link-7'>https://www.sorabloggingtips.com/2017/01/how-to-add-sitemap-widget-in-blogspot-blogs.html</b:widget-setting>
-               <b:widget-setting name='link-8'>https://game-x-soratemplates.blogspot.com/soratemplates</b:widget-setting>
+               <b:widget-setting name='text-8'>_Maps</b:widget-setting>
+               <b:widget-setting name='link-7'>#</b:widget-setting>
+               <b:widget-setting name='link-8'>#</b:widget-setting>
                <b:widget-setting name='link-5'>#</b:widget-setting>
-               <b:widget-setting name='link-6'>https://game-x-soratemplates.blogspot.com/p/post-format-and-page-markup.html</b:widget-setting>
+               <b:widget-setting name='link-6'>#</b:widget-setting>
                <b:widget-setting name='link-3'>#</b:widget-setting>
                <b:widget-setting name='link-4'>#</b:widget-setting>
-               <b:widget-setting name='text-1'>Features</b:widget-setting>
+               <b:widget-setting name='text-1'>Modding</b:widget-setting>
                <b:widget-setting name='text-0'>Home-icon</b:widget-setting>
-               <b:widget-setting name='text-3'>__DropDown 1</b:widget-setting>
-               <b:widget-setting name='text-2'>_Multi DropDown</b:widget-setting>
-               <b:widget-setting name='text-5'>__DropDown 3</b:widget-setting>
-               <b:widget-setting name='text-4'>__DropDown 2</b:widget-setting>
-               <b:widget-setting name='text-7'>_SiteMap</b:widget-setting>
-               <b:widget-setting name='text-6'>_ShortCodes</b:widget-setting>
-               <b:widget-setting name='text-11'>_Web Documentation</b:widget-setting>
-               <b:widget-setting name='text-12'>_Video Documentation</b:widget-setting>
-               <b:widget-setting name='text-13'>Download This Template</b:widget-setting>
+               <b:widget-setting name='text-3'>_Vehicles</b:widget-setting>
+               <b:widget-setting name='text-2'>_Skins</b:widget-setting>
+               <b:widget-setting name='text-5'>Scripting</b:widget-setting>
+               <b:widget-setting name='text-4'>_ENBs</b:widget-setting>
+               <b:widget-setting name='text-7'>_FilterScripts</b:widget-setting>
+               <b:widget-setting name='text-6'>_Gamemodes</b:widget-setting>
+               <b:widget-setting name='sorting'>NONE</b:widget-setting>
+               <b:widget-setting name='link-1'>#</b:widget-setting>
+               <b:widget-setting name='link-2'>#</b:widget-setting>
+               <b:widget-setting name='link-0'>/</b:widget-setting>
              </b:widget-settings>
              <b:includable id='main'>
               <b:include name='content'/>
@@ -5678,7 +5665,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
       <b:section id='carousel-section' maxwidgets='1' name='Carousel' showaddelement='yes'>
         <b:widget id='HTML25' locked='false' title='Carousel Widget' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>12/Trending/slide-posts</b:widget-setting>
+            <b:widget-setting name='content'>8/random/slide-posts</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -5701,7 +5688,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
 
         <b:if cond='data:view.isHomepage'> 
           <b:section class='featured-posts' id='featured-posts-2' name='Featured Posts 02' showaddelement='yes'>
-             <b:widget id='HTML5' locked='false' title='Nintendo' type='HTML' visible='true'>
+             <b:widget id='HTML5' locked='false' title='Nintendo' type='HTML' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>Nintendo/feat-big</b:widget-setting>
                </b:widget-settings>
@@ -5712,7 +5699,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
              </b:widget>
-             <b:widget id='HTML71' locked='false' title='Slider' type='HTML' version='2' visible='true'>
+             <b:widget id='HTML71' locked='false' title='Slider' type='HTML' version='2' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>5/War/slider</b:widget-setting>
                </b:widget-settings>
@@ -5723,7 +5710,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
             </div>
           </b:includable>
              </b:widget>
-             <b:widget id='HTML13' locked='false' title='PC' type='HTML' visible='true'>
+             <b:widget id='HTML13' locked='false' title='PC' type='HTML' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>3/PC/grid-small</b:widget-setting>
                </b:widget-settings>
@@ -5734,7 +5721,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
              </b:widget>
-             <b:widget id='HTML8' locked='false' title='Releases' type='HTML' visible='true'>
+             <b:widget id='HTML8' locked='false' title='Releases' type='HTML' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>3/Releases/col-left</b:widget-setting>
                </b:widget-settings>
@@ -5745,7 +5732,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
              </b:widget>
-             <b:widget id='HTML9' locked='false' title='Updates' type='HTML' visible='true'>
+             <b:widget id='HTML9' locked='false' title='Updates' type='HTML' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>3/Updates/col-right</b:widget-setting>
                </b:widget-settings>
@@ -5756,7 +5743,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
              </b:widget>
-             <b:widget id='HTML15' locked='false' title='PS5' type='HTML' visible='true'>
+             <b:widget id='HTML15' locked='false' title='PS5' type='HTML' visible='false'>
                <b:widget-settings>
                  <b:widget-setting name='content'>6/PS5/mini-slide</b:widget-setting>
                </b:widget-settings>
@@ -6602,7 +6589,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:if cond='data:view.isHomepage'> 
           <div class='clearfix'/>
           <b:section class='featured-posts' id='featured-posts-3' name='Featured Posts 03' showaddelement='yes'>
-            <b:widget id='HTML6' locked='false' title='Xbox' type='HTML' visible='true'>
+            <b:widget id='HTML6' locked='false' title='Xbox' type='HTML' visible='false'>
               <b:widget-settings>
                 <b:widget-setting name='content'>2/Xbox/grid-big</b:widget-setting>
               </b:widget-settings>
@@ -6613,7 +6600,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
             </b:widget>
-            <b:widget id='HTML10' locked='false' title='RPG' type='HTML' visible='true'>
+            <b:widget id='HTML10' locked='false' title='RPG' type='HTML' visible='false'>
               <b:widget-settings>
                 <b:widget-setting name='content'>3/RPG/feat-list</b:widget-setting>
               </b:widget-settings>
@@ -6624,7 +6611,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
   </div>
 </b:includable>
             </b:widget>
-            <b:widget id='HTML12' locked='false' title='Gameplay' type='HTML' version='2' visible='true'>
+            <b:widget id='HTML12' locked='false' title='Gameplay' type='HTML' version='2' visible='false'>
               <b:widget-settings>
                 <b:widget-setting name='content'>3/Gameplay/grid-small</b:widget-setting>
               </b:widget-settings>
@@ -6648,7 +6635,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
               <b:widget-setting name='showPostTitle'>true</b:widget-setting>
               <b:widget-setting name='postId'>5300571702832933918</b:widget-setting>
               <b:widget-setting name='showFirstImage'>true</b:widget-setting>
-              <b:widget-setting name='useMostRecentPost'>false</b:widget-setting>
+              <b:widget-setting name='useMostRecentPost'>true</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -6687,23 +6674,15 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='sidebar' id='social-widget' maxwidgets='1' name='Social Widget' showaddelement='yes'>
           <b:widget id='LinkList75' locked='true' title='Social Plugin' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='link-7'>#</b:widget-setting>
-              <b:widget-setting name='link-5'>#</b:widget-setting>
-              <b:widget-setting name='link-6'>#</b:widget-setting>
               <b:widget-setting name='link-3'>#</b:widget-setting>
-              <b:widget-setting name='link-4'>#</b:widget-setting>
-              <b:widget-setting name='text-1'>twitter</b:widget-setting>
-              <b:widget-setting name='text-0'>facebook</b:widget-setting>
-              <b:widget-setting name='text-3'>pinterest</b:widget-setting>
-              <b:widget-setting name='text-2'>rss</b:widget-setting>
-              <b:widget-setting name='text-5'>vk</b:widget-setting>
-              <b:widget-setting name='text-4'>instagram</b:widget-setting>
-              <b:widget-setting name='text-7'>rss</b:widget-setting>
-              <b:widget-setting name='text-6'>youtube</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
+              <b:widget-setting name='text-1'>youtube</b:widget-setting>
               <b:widget-setting name='link-1'>#</b:widget-setting>
+              <b:widget-setting name='text-0'>facebook</b:widget-setting>
               <b:widget-setting name='link-2'>#</b:widget-setting>
-              <b:widget-setting name='link-0'>http://fb.com/soratemplates</b:widget-setting>
+              <b:widget-setting name='text-3'>rss</b:widget-setting>
+              <b:widget-setting name='link-0'>https://www.facebook.com/GTAPRO7777</b:widget-setting>
+              <b:widget-setting name='text-2'>vk</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -7046,7 +7025,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
             <b:widget-settings>
               <b:widget-setting name='content'>&lt;div class=&quot;videoWrapper&quot;&gt;
     &lt;!-- Copy &amp; Pasted from YouTube --&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;349&quot; src=&quot;https://www.youtube.com/embed/SjO6dBoytUM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;349&quot; src=&quot;https://www.youtube.com/embed/fzvAWf3tzQM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;style&gt;
 .videoWrapper {
@@ -7098,7 +7077,7 @@ height: 100%;
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>LIST</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Business,Fashion,Food,Music,Photography,Technology</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'/>
               <b:widget-setting name='showType'>ALL</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>true</b:widget-setting>
             </b:widget-settings>
@@ -7141,17 +7120,6 @@ height: 100%;
       </ul>
     </b:includable>
           </b:widget>
-          <b:widget id='HTML7' locked='false' title='Latest Releases' type='HTML' visible='true'>
-            <b:widget-settings>
-              <b:widget-setting name='content'>3/Releases/post-list</b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-          </b:widget>
         </b:section>
         </div>
 <div class='clearfix'/>
@@ -7178,313 +7146,65 @@ height: 100%;
         </b:widget>
       </b:section>
       <b:section class='footer common-widget' id='footer-sec2' maxwidgets='3' name='Section (Center)' showaddelement='yes'>
-        <b:widget id='HTML4' locked='false' title='Recent in PC' type='HTML' visible='true'>
-          <b:widget-settings>
-            <b:widget-setting name='content'>3/PC/post-list</b:widget-setting>
-          </b:widget-settings>
+        <b:widget id='ContactForm2' locked='false' title='Contact Form' type='ContactForm' visible='true'>
           <b:includable id='main'>
   <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
+  <b:include name='content'/>
+</b:includable>
+          <b:includable id='content'>
+  <div class='contact-form-widget'>
+    <div class='form'>
+      <form name='contact-form'>
+        <p/>
+        <data:contactFormNameMsg/>
+        <br/>
+        <input class='contact-form-name' expr:id='data:widget.instanceId + &quot;_contact-form-name&quot;' name='name' size='30' type='text' value=''/>
+        <p/>
+        <data:contactFormEmailMsg/> <span style='font-weight: bolder;'>*</span>
+        <br/>
+        <input class='contact-form-email' expr:id='data:widget.instanceId + &quot;_contact-form-email&quot;' name='email' size='30' type='text' value=''/>
+        <p/>
+        <data:contactFormMessageMsg/> <span style='font-weight: bolder;'>*</span>
+        <br/>
+        <textarea class='contact-form-email-message' cols='25' expr:id='data:widget.instanceId + &quot;_contact-form-email-message&quot;' name='email-message' rows='5'/>
+        <p/>
+        <input class='contact-form-button contact-form-button-submit' expr:id='data:widget.instanceId + &quot;_contact-form-submit&quot;' expr:value='data:contactFormSendMsg' type='button'/>
+        <p/>
+        <div style='text-align: center; max-width: 222px; width: 100%'>
+          <p class='contact-form-error-message' expr:id='data:widget.instanceId + &quot;_contact-form-error-message&quot;'/>
+          <p class='contact-form-success-message' expr:id='data:widget.instanceId + &quot;_contact-form-success-message&quot;'/>
+        </div>
+      </form>
+    </div>
   </div>
 </b:includable>
         </b:widget>
       </b:section>
       <b:section class='footer common-widget' id='footer-sec3' maxwidgets='3' name='Section (Right)' showaddelement='yes'>
-        <b:widget id='PopularPosts2' locked='false' title='Popular Posts' type='PopularPosts' version='2' visible='true'>
+        <b:widget id='Stats1' locked='false' title='Total Pageviews' type='Stats' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
-            <b:widget-setting name='showThumbnails'>true</b:widget-setting>
-            <b:widget-setting name='showSnippets'>true</b:widget-setting>
+            <b:widget-setting name='showGraphicalCounter'>true</b:widget-setting>
+            <b:widget-setting name='showAnimatedCounter'>true</b:widget-setting>
+            <b:widget-setting name='showSparkline'>false</b:widget-setting>
+            <b:widget-setting name='sparklineStyle'>WHITE_TRANSPARENT</b:widget-setting>
             <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
           </b:widget-settings>
-          <b:includable id='main' var='this'>
-      <b:include name='widget-title'/>
-      <div class='widget-content'>
-        <b:loop values='data:posts' var='post'>
-          <b:include data='post' name='postContent'/>
-        </b:loop>
-      </div>
-    </b:includable>
-          <b:includable id='blogThisShare'>
-  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' var='onclick'>
-    <b:include name='platformShare'/>
-  </b:with>
+          <b:includable id='main'>
+  <b:include name='widget-title'/>
+  <b:include name='content'/>
 </b:includable>
-          <b:includable id='bylineByName' var='byline'>
-  <b:switch var='data:byline.name'>
-  <b:case value='share'/>
-    <b:include cond='data:post.shareUrl' name='postShareButtons'/>
-  <b:case value='comments'/>
-    <b:include cond='data:post.allowComments' name='postCommentsLink'/>
-  <b:case value='location'/>
-    <b:include cond='data:post.location' name='postLocation'/>
-  <b:case value='timestamp'/>
-    <b:include cond='not data:view.isPage' name='postTimestamp'/>
-  <b:case value='author'/>
-    <b:include name='postAuthor'/>
-  <b:case value='labels'/>
-    <b:include cond='data:post.labels' name='postLabels'/>
-  <b:case value='icons'/>
-    <b:include cond='data:post.emailPostUrl' name='emailPostIcon'/>
-  <b:case value='reactions'/>
-    <b:include cond='data:post.reactionsUrl' name='postReactions'/>
-  </b:switch>
-</b:includable>
-          <b:includable id='bylineRegion' var='regionItems'>
-  <b:loop values='data:regionItems' var='byline'>
-    <b:include data='byline' name='bylineByName'/>
-  </b:loop>
-</b:includable>
-          <b:includable id='commentsLink'>
-  <a class='comment-link' expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
-    <b:if cond='data:post.numberOfComments &gt; 0'>
-      <b:message name='messages.numberOfComments'>
-        <b:param expr:value='data:post.numberOfComments' name='numComments'/>
-      </b:message>
-    <b:else/>
-      <data:messages.postAComment/>
-    </b:if>
-  </a>
-</b:includable>
-          <b:includable id='commentsLinkIframe'>
-  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
-</b:includable>
-          <b:includable id='emailPostIcon'>
-  <span class='byline post-icons'>
-    <!-- email post links -->
-    <span class='item-action'>
-      <a expr:href='data:post.emailPostUrl' expr:title='data:messages.emailPost'>
-        <b:include data='{ iconClass: &quot;touch-icon sharing-icon&quot; }' name='emailIcon'/>
-      </a>
-    </span>
-  </span>
-</b:includable>
-          <b:includable id='facebookShare'>
-  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' var='onclick'>
-    <b:include name='platformShare'/>
-  </b:with>
-</b:includable>
-          <b:includable id='footerBylines'>
-  <b:if cond='data:widgets.Blog.first.footerBylines'>
-    <b:loop index='i' values='data:widgets.Blog.first.footerBylines' var='region'>
-      <b:if cond='not data:region.items.empty'>
-        <div expr:class='&quot;post-footer-line post-footer-line-&quot; + (data:i + 1)'>
-          <b:with value='&quot;footer-&quot; + (data:i + 1)' var='regionName'>
-            <b:include data='region.items' name='bylineRegion'/>
-          </b:with>
-        </div>
+          <b:includable id='content'>
+  <div class='widget-content'>
+    <!-- Content is going to be visible when data will be fetched from server. -->
+    <div expr:id='data:widget.instanceId + &quot;_content&quot;' style='display: none;'>
+      <!-- Counter and image will be injected later via AJAX call. -->
+      <b:if cond='data:showSparkline'>
+        <script src='https://www.gstatic.com/charts/loader.js' type='text/javascript'/>
+        <span expr:id='data:widget.instanceId + &quot;_sparklinespan&quot;' style='display:inline-block; width:75px; height:30px'/>
       </b:if>
-    </b:loop>
-  </b:if>
-</b:includable>
-          <b:includable id='googlePlusShare'>
-  <div class='goog-inline-block google-plus-share-container'>
-    <g:plusone annotation='inline' expr:href='data:originalUrl.canonical.http' size='medium' source='blogger:blog:plusone'/>
-  </div>
-</b:includable>
-          <b:includable id='headerByline'>
-  <b:if cond='data:widgets.Blog.first.headerByline'>
-    <div class='post-header'>
-      <div class='post-header-line-1'>
-        <b:with value='&quot;header-1&quot;' var='regionName'>
-          <b:include data='data:widgets.Blog.first.headerByline.items' name='bylineRegion'/>
-        </b:with>
-      </div>
+      <span expr:class='&quot;counter-wrapper &quot; + (data:showGraphicalCounter ? &quot;graph-counter-wrapper&quot; : &quot;text-counter-wrapper&quot;)' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'>
+      </span>
     </div>
-  </b:if>
-</b:includable>
-          <b:includable id='linkShare'>
-  <b:with value='&quot;window.prompt(\&quot;Copy to clipboard: Ctrl+C, Enter\&quot;, \&quot;&quot; + data:originalUrl + &quot;\&quot;); return false;&quot;' var='onclick'>
-    <b:include name='platformShare'/>
-  </b:with>
-</b:includable>
-          <b:includable id='otherSharingButton'>
-  <span class='sharing-platform-button sharing-element-other' expr:aria-label='data:messages.shareToOtherApps.escaped' expr:data-url='data:originalUrl' expr:title='data:messages.shareToOtherApps.escaped' role='menuitem' tabindex='-1'>
-    <b:with value='{key: &quot;sharingOther&quot;}' var='platform'>
-      <b:include name='sharingPlatformIcon'/>
-    </b:with>
-    <span class='platform-sharing-text'><data:messages.shareOtherApps.escaped/></span>
-  </span>
-</b:includable>
-          <b:includable id='platformShare'>
-  <a expr:class='&quot;goog-inline-block sharing-&quot; + data:platform.key' expr:data-url='data:originalUrl' expr:href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:onclick='data:onclick ? data:onclick : &quot;&quot;' expr:title='data:platform.shareMessage' target='_blank'>
-    <span class='share-button-link-text'>
-      <data:platform.shareMessage/>
-    </span>
-  </a>
-</b:includable>
-          <b:includable id='postAuthor'>
-  <span class='byline post-author vcard'>
-    <span class='post-author-label'>
-      <data:byline.label/>
-    </span>
-    <span class='fn'>
-      <b:if cond='data:post.author.profileUrl'>
-        <meta expr:content='data:post.author.profileUrl'/>
-        <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
-          <span><data:post.author.name/></span>
-        </a>
-      <b:else/>
-        <span><data:post.author.name/></span>
-      </b:if>
-    </span>
-  </span>
-</b:includable>
-          <b:includable id='postCommentsLink'>
-  <span class='byline post-comment-link container'>
-    <b:include cond='data:post.commentSource != 1' name='commentsLink'/>
-  </span>
-</b:includable>
-          <b:includable id='postContent' var='post'>
-      <div class='post'>
-        <div class='post-content'>
-          <a class='post-image-link' expr:href='data:post.url'>
-            <b:if cond='data:post.featuredImage'>
-              <img class='post-thumb' expr:alt='data:post.title' expr:src='data:post.featuredImage resizeImage 100'/>
-              <b:else/>
-              <img class='post-thumb' expr:alt='data:post.title' src='https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png'/>
-            </b:if>
-          </a>
-          <div class='post-info'>
-            <h2 class='post-title'>
-              <a expr:href='data:post.url'><data:post.title/></a>
-            </h2>
-            <div class='post-meta'>
-              <span class='post-date published' expr:datetime='data:post.date.iso8601'><data:post.date/></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </b:includable>
-          <b:includable id='postJumpLink' var='post'>
-  <div class='jump-link flat-button'>
-    <a expr:href='data:post.url fragment &quot;more&quot;' expr:title='data:post.title'>
-      <b:eval expr='data:blog.jumpLinkMessage'/>
-    </a>
-  </div>
-</b:includable>
-          <b:includable id='postLabels'>
-  <span class='byline post-labels'>
-    <span class='byline-label'><data:byline.label/></span>
-    <b:loop index='i' values='data:post.labels' var='label'>
-      <a expr:href='data:label.url' rel='tag'>
-        <data:label.name/>
-      </a>
-    </b:loop>
-  </span>
-</b:includable>
-          <b:includable id='postLocation'>
-  <span class='byline post-location'>
-    <data:byline.label/>
-    <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
-  </span>
-</b:includable>
-          <b:includable id='postReactions'>
-  <span class='byline reactions'>
-    <span class='reactions-label'>
-      <data:byline.label/>
-    </span>
-    <iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/>
-  </span>
-</b:includable>
-          <b:includable id='postShareButtons'>
-  <div class='byline post-share-buttons goog-inline-block'>
-    <b:with value='data:sharingId ?: ((data:widget.instanceId ?: &quot;sharing&quot;) + &quot;-&quot; + (data:regionName ?: &quot;byline&quot;) + &quot;-&quot; + data:post.id)' var='sharingId'>
-      <!-- Note: 'sharingButtons' includable is from the default Sharing widget markup. -->
-      <b:include data='{                                                sharingId: data:sharingId,                                                originalUrl: data:post.url,                                                platforms: data:this.sharing.platforms,                                                shareUrl: data:post.shareUrl,                                                shareTitle: data:post.title,                                              }' name='sharingButtons'/>
-    </b:with>
-  </div>
-</b:includable>
-          <b:includable id='postTimestamp'>
-  <span class='byline post-timestamp'>
-    <data:byline.label/>
-    <b:if cond='data:post.url'>
-      <meta expr:content='data:post.url.canonical'/>
-      <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'>
-        <time class='published' expr:datetime='data:post.date.iso8601' expr:title='data:post.date.iso8601'>
-          <data:post.date/>
-        </time>
-      </a>
-    </b:if>
-  </span>
-</b:includable>
-          <b:includable id='sharingButton'>
-  <span expr:aria-label='data:platform.shareMessage' expr:class='&quot;sharing-platform-button sharing-element-&quot; + data:platform.key' expr:data-href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:data-url='data:originalUrl' expr:title='data:platform.shareMessage' role='menuitem' tabindex='-1'>
-    <b:include name='sharingPlatformIcon'/>
-    <span class='platform-sharing-text'><data:platform.name/></span>
-  </span>
-</b:includable>
-          <b:includable id='sharingButtonContent'>
-  <div class='flat-icon-button ripple'>
-    <b:include name='shareIcon'/>
-  </div>
-</b:includable>
-          <b:includable id='sharingButtons'>
-  <div class='sharing' expr:aria-owns='&quot;sharing-popup-&quot; + data:sharingId' expr:data-title='data:shareTitle'>
-    <button class='sharing-button touch-icon-button' expr:aria-controls='&quot;sharing-popup-&quot; + data:sharingId' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-button-&quot; + data:sharingId' role='button'>
-      <b:include name='sharingButtonContent'/>
-    </button>
-    <b:include name='sharingButtonsMenu'/>
-  </div>
-</b:includable>
-          <b:includable id='sharingButtonsMenu'>
-  <div class='share-buttons-container'>
-    <ul aria-hidden='true' class='share-buttons hidden' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-popup-&quot; + data:sharingId' role='menu'>
-      <b:loop values='(data:platforms ?: data:blog.sharing.platforms) filter (p =&gt; p.key not in {&quot;blogThis&quot;})' var='platform'>
-        <li>
-          <b:include name='sharingButton'/>
-        </li>
-      </b:loop>
-      <li aria-hidden='true' class='hidden'>
-        <b:include name='otherSharingButton'/>
-      </li>
-    </ul>
-  </div>
-</b:includable>
-          <b:includable id='sharingPlatformIcon'>
-  <b:include data='{ iconClass: (&quot;touch-icon sharing-&quot; + data:platform.key) }' expr:name='data:platform.key + &quot;Icon&quot;'/>
-</b:includable>
-          <b:includable id='snippetedPostByline'>
-  <b:with value='(data:widgets first (w =&gt; w.type == &quot;Blog&quot;)).allBylineItems' var='blogBylines'>
-    <div class='item-byline'>
-      <b:with value='data:blogBylines first (i =&gt; i.name == &quot;author&quot;)' var='byline'>
-        <b:include cond='data:byline and data:this.postDisplay.showAuthor' data='post' name='postAuthor'/>
-      </b:with>
-      <b:with value='data:blogBylines first (i =&gt; i.name == &quot;timestamp&quot;)' var='byline'>
-        <b:include cond='data:byline and data:this.postDisplay.showDate' data='post' name='postTimestamp'/>
-      </b:with>
-    </div>
-  </b:with>
-</b:includable>
-          <b:includable id='snippetedPostContent'>
-  <div class='post-content'>
-    <b:include cond='data:this.postDisplay.showTitle' name='snippetedPostTitle'/>
-    <b:include cond='data:this.postDisplay.showDate or data:this.postDisplay.showAuthor' name='snippetedPostByline'/>
-    <b:include cond='data:this.postDisplay.showSnippet' data='post' name='postSnippet'/>
-    <b:include cond='data:this.postDisplay.showFeaturedImage and data:post.featuredImage' name='snippetedPostThumbnail'/>
-  </div>
-</b:includable>
-          <b:includable id='snippetedPostThumbnail'>
-  <div class='item-thumbnail'>
-    <a expr:href='data:post.url'>
-      <b:include data='{                         image: data:post.featuredImage,                         imageSizes: [72, 144],                         imageRatio: &quot;1:1&quot;,                         sourceSizes: &quot;72px&quot;                        }' name='responsiveImage'/>
-    </a>
-  </div>
-</b:includable>
-          <b:includable id='snippetedPostTitle'>
-  <b:if cond='data:post.title != &quot;&quot;'>
-    <h3 class='post-title'><a expr:href='data:post.url'><data:post.title/></a></h3>
-  </b:if>
-</b:includable>
-          <b:includable id='snippetedPosts'>
-  <div role='feed'>
-    <!-- Don't render the post that we're currently already looking at. -->
-    <b:loop values='data:posts filter (p =&gt; p.id != data:view.postId)' var='post'>
-      <article class='post' role='article'>
-        <b:include name='snippetedPostContent'/>
-      </article>
-    </b:loop>
   </div>
 </b:includable>
         </b:widget>
