@@ -29,9 +29,9 @@
 <b:skin version='1.0.0'><![CDATA[/* 
 -----------------------------------------------
 Blogger Template Style
-Name:        GameX
+Name:        GTA PRO (GameX)
 License:     Free Version
-Version:     1.0
+Version:     1.0.0
 Author:      SoraTemplates
 Author Url:  https://www.soratemplates.com/
 ----------------------------------------------- */
@@ -4517,6 +4517,63 @@ z-index: 4;
     }
 }
 
+.mbtTOC{
+        border:5px solid #f7f0b8;
+        box-shadow:1px 1px 0 #EDE396;
+        background-color:#FFFFE0;
+        color:#707037;
+        line-height:1.4em;
+        margin:30px auto;
+        padding:20px 30px 20px 10px;
+        font-family:oswald, arial;
+        display: block;
+         width: 70%;
+        } 
+		
+.mbtTOC ol,.mbtTOC ul {
+        margin:0;
+        padding:0;
+                      } 
+					  
+.mbtTOC ul {
+        list-style:none;
+           }   
+		   
+.mbtTOC ol li,.mbtTOC ul li {
+        padding:15px 0 0;
+        margin:0 0 0 30px;
+        font-size:15px;
+                            } 
+          
+.mbtTOC a{
+        color:#0080ff;
+        text-decoration:none;
+          } 
+          
+.mbtTOC a:hover{
+        text-decoration:underline; 
+              }
+
+        
+.mbtTOC button{
+        background:#FFFFE0;
+        font-family:oswald, arial; 
+        font-size:20px;position:relative; 
+        outline:none;
+        cursor:pointer; 
+        border:none; 
+        color:#707037;
+        padding:0 0 0 15px;
+               }  
+			   
+.mbtTOC button:after{
+        content: "\f0dc"; 
+        font-family:FontAwesome; 
+        position:relative; 
+        left:10px; 
+        font-size:20px;
+}
+
 ]]></b:skin>
 <style>
 /*-------Typography and ShortCodes-------*/
@@ -5280,6 +5337,18 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
 
     <!-- Google Analytics -->
     <b:include data='blog' name='google-analytics'/>
+
+
+<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' rel='stylesheet'/>
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'/>
+<script type='text/javascript'>
+//<![CDATA[
+//*************TOC plugin by xuanhieu.net
+function mbtTOC() {var mbtTOC=i=headlength=gethead=0;
+headlength = document.getElementById("post-toc").getElementsByTagName("h2").length;for (i = 0; i < headlength; i++)
+{gethead = document.getElementById("post-toc").getElementsByTagName("h2")[i].textContent;document.getElementById("post-toc").getElementsByTagName("h2")[i].setAttribute("id", "gtapro"+i);mbtTOC = "<li><a href='#gtapro"+i+"'>"+gethead+"</a></li>";document.getElementById("mbtTOC").innerHTML += mbtTOC;}}function mbtToggle() {var mbt = document.getElementById('mbtTOC');if (mbt .style.display === 'none') {mbt .style.display = 'block';} else {mbt .style.display = 'none';}}
+//]]>
+</script>
 
 </head>
 <body expr:class='data:blog.pageType'>
@@ -6182,7 +6251,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
             <b:includable id='postBody' var='post'> 
               <!-- Post Body Entry Content-->
               <div class='post-body post-content'>
-                <data:post.body/>
+                <div id="post-toc"><data:post.body/></div>
               </div>
             </b:includable>
             <b:includable id='postBodySnippet' var='post'>
@@ -7295,7 +7364,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 //]]>
-</script>  
+</script>
 <!-- Overlay and Back To Top --> 
   <div class='overlay'/>
   <div class='back-top' title='Back to Top'/>
